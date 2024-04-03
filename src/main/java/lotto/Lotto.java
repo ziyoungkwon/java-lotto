@@ -1,5 +1,7 @@
 package lotto;
 
+import org.kokodak.Randoms;
+
 import java.util.List;
 
 public class Lotto {
