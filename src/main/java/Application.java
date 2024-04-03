@@ -1,5 +1,3 @@
-package lotto;
-
 import java.util.Scanner;
 
 public class Application {
