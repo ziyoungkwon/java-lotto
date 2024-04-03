@@ -18,5 +18,8 @@ public class Lotto {
         }
     }
 
+    public List<Integer> getNumbers() {
+    }
+
     // TODO: 추가 기능 구현
 }
